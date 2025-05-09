@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-wrap: wrap;
+}
+body{
+    font-family:Roboto,sans-serif;
+	font-size:16px;
+	line-height:28px;
+	font-weight:300;
+	color:#9a9a9a
+   }
+   h1{
+    color:white;
+	text-align:center;
+   }
+   .breadcrumb-area {
+      background-image: url(https://st.ourhtmldemo.com/new/interrio/images/breadcrumb/breadcrumb-bg.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 200px;
+        background-blend-mode: multiply;
+   }
+   .breadcrumb-area h1{
+     padding-bottom:100px;
+	 padding-top:40px;
+	 line-height:30px;
+	 color:white;
+   }
+   .margin-bottom{
+     margin-bottom:13px;
+   }
+   .second-part{
+     color:black;
+   }
+   .word-hover:hover{
+      color:#a37a32;
+   }
+   .midium{
+    height:80%;
+	
+   }
+   .midium2{
+    height:20%;
+	
+   }
+   .first{
+     text-align:left;
+   }
+   .text-first{
+     text-align:start;
+   }
+   .midium3{
+     height:30%;
+	
+   }
+   .midium4{
+    height:50%;
+	
+   }
+   .text-second{
+     text-align:start;
+	 text-align:justify;
+   }
+   a{
+     text-decoration:none;
+	 color:gray;
+   }
+   .ul, li{
+    list-style:none;
+   }
+   .product-tag{
+	display:flex;
+	margin:0;
+	padding:0;
+	text-align:start;
+   }
+   .products:hover{
+     background-color:black;
+	 color:#a37a32;
+   }
+   .social{
+     color:black;
+	 text-align:right;
+   }
+   .holder{
+    background-color:#f7f7f7;
+	position:relative;
+   }
+   .comment-border{
+    border:1px solid #f7f7f7;
+   }
+   .stars{
+    text-align:left;
+   }
+   .form{
+    text-align:left;
+   }
+   .submit-btn{
+    height:100%;
+	color:#a37a32;
+	background-color:black;
+	width:20%;
+   }
+   .footer_design{
+      color: #d5ac63;
+	}
+	.last-mid{
+        background-color: rgba(0, 0, 0, 0.9);
+		width:auto;
+		height:auto;
+		
+    }
+    .logo{
+      color: white;
+    }
+	.logo-chan{
+        color: #c9a565;
+    }
+	.mid{
+	 color:gray;
+	}
+	.footer_design{
+        color: #d5ac63;
+    }
+	.icon{
+        right: auto;
+        color: white;
+      }
+	.nav-link:hover{
+	  color:#a37a32;
+	}
+ 
